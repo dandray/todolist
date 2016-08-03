@@ -1,0 +1,11 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "1ere appli todolist node a deployer",
+  "main": "todolist.js",
+  "scripts": {
+    "test": "node todolist.js"
+  },
+  "author": "dandray",
+  "license": "ISC"
+}
